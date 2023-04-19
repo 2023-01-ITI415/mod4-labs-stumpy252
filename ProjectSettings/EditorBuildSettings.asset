@@ -12,7 +12,7 @@ EditorBuildSettings:
     path: Assets/_Labs/01-Probuilder/01-Probuilder.unity
     guid: 1cf9bb62474c84a0e87cdaff8cb74df7
   - enabled: 1
-    path: Assets/_Labs/01-Probuilder/02-SNAPS/02-SNAPS.unity
+    path: Assets/_Labs/02-SNAPS/02-SNAPS.unity
     guid: c49e59542282f496181b161b92921a27
   - enabled: 1
     path: Assets/_Labs/03-Terrain/03-Terrain.unity
